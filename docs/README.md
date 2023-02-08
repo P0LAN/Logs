@@ -5,13 +5,14 @@
 
 </div>
 
-# update 1.5v
+# update 1.5v (incoming)
 <div style='color: red'>
 
->- 
->- 
->- 
->- 
+>- fixed alot of bugs
+>- started migrating to c++
+>- personalized polan
+>- added a ton of new commands
+>- started working on the settings tab
 
 
 </div>
