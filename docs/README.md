@@ -1,18 +1,17 @@
 # update 1.0v
 
->- polan is finally released (beta)
->- added some commands
+>- polan is finally released 
+
 
 </div>
 
-# update 1.5v (incoming)
+# update 2.0v (coming soon)
 <div style='color: red'>
 
->- fixed alot of bugs
->- started migrating to c++
+>- migrated to python
 >- personalized polan
->- added a ton of new commands
->- started working on the settings tab
+>- added tons of new commands
+>- started working on a mobile version
 
 
 </div>
